@@ -1,0 +1,14 @@
+{
+  "name": "sass-setup-project-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass main.scss css/styles.css",
+    "watch": "sass --watch main.scss css/styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": ""
+}
